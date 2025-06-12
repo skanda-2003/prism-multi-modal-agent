@@ -73,3 +73,21 @@ npm start
 
 # 7. Open in browser
 http://localhost:3000
+
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### 📋 Main Page
+![Main Page](./screenshots/main.png)
+
+### 🍳 Cooking Agent
+![Cooking Agent](./screenshots/cooking.png)
+
+### 🎬 Entertainment Agent
+![Entertainment Agent](./screenshots/entertainment.png)
+
+### 📰 News Agent
+![News Agent](./screenshots/news.png)
+
