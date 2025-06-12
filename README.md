@@ -79,10 +79,7 @@ http://localhost:3000
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-[<img src="screenshots/home.png" width="600"/>](screenshots/home.png)
-
-### 📋 Main Page
-![Main Page](./screenshots/main.png)
+![Home Page](./screenshots/home.png)
 
 ### 🍳 Cooking Agent
 ![Cooking Agent](./screenshots/cooking.png)
