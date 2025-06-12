@@ -74,6 +74,8 @@ npm start
 # 7. Open in browser
 http://localhost:3000
 
+```
+
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
