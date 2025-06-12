@@ -77,7 +77,7 @@ http://localhost:3000
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+[<img src="screenshots/home.png" width="600"/>](screenshots/home.png)
 
 ### 📋 Main Page
 ![Main Page](./screenshots/main.png)
